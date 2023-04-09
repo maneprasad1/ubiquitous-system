@@ -1,1 +1,1 @@
-# ubiquitous-system
+# Python Practicals
